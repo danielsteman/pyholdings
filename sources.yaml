@@ -1,0 +1,36 @@
+sources:
+  - id: 10280893
+    name: SPDR MSCI World Technology UCITS ETF
+    isin: IE00BYTRRD19
+    symbol: WTCH
+    type: ETF
+    download:
+      url: https://www.ssga.com/it/en_gb/institutional/etfs/library-content/products/fund-data/etfs/emea/holdings-daily-emea-en-wtch-na.xlsx
+      header_row: 5
+
+  - id: 13996899
+    name: Vanguard S&P 500 UCITS ETF USD
+    isin: IE00B3XXRP09
+    symbol: VG73
+    type: ETF
+
+  - id: 846772
+    name: iShares Core MSCI World UCITS ETF USD (Acc)
+    isin: IE00B4L5Y983
+    symbol: IWDA
+    type: ETF
+    download:
+      url: https://www.ishares.com/nl/particuliere-belegger/nl/producten/251882/ishares-msci-world-ucits-etf-acc-fund/1497735778849.ajax?fileType=csv&fileName=IWDA_holdings&dataType=fund
+
+  - id: 850546
+    name: VanEck Vectors AEX UCITS ETF
+    isin: NL0009272749
+    symbol: TDT
+    type: ETF
+
+  - id: 4586986
+    name: Vanguard FTSE Emerging Markets UCITS ETF USD
+    isin: IE00B3VVMM84
+    symbol: VFEM
+    type: ETF
+
